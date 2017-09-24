@@ -4,7 +4,6 @@ body {
 
 h5 {
   color: #0B7E85;
-  padding-left: 15px;
   padding-bottom: 15px;
 }
 
@@ -35,7 +34,8 @@ button {
 }
 
 a {
-  text-decoration: none;
+  color: black;
+  text-decoration: underline;
 }
 
 .id-form {
@@ -50,9 +50,31 @@ a {
 
 .status {
   padding-left: 35px;
+  margin-bottom: 50px;
+}
+
+.status .row {
   padding-top: 25px;
 }
 
-.thanks {
-  padding-top: 15px;
+.align-right {
+  position: absolute;
+  right: 16px;
+}
+
+.submit-button {
+  margin-bottom: 60px;
+}
+
+.status ul {
+  padding-left: 18px;
+}
+
+.status li {
+  margin-bottom: 20px;
+}
+
+.go-back {
+  font-weight: bold;
+  color: #0B7E85;
 }
