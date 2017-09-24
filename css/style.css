@@ -1,0 +1,28 @@
+button {
+  background-color: #0B7E85;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar {
+  height: 50px;
+  color: #0B7E85;
+  font-weight: bold;
+}
+
+.subnav {
+  height: 50px;
+  background-color: #0B7E85;
+  color: #fff;
+  font-size: 18px;
+  padding-left: 15px;
+  padding-top: 12px;
+  /*font-weight: bold;*/
+}
+
+.logo {
+  width: 30px;
+}
