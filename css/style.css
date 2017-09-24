@@ -1,10 +1,15 @@
-button {
-  background-color: #0B7E85;
-  color: white;
+body {
+  font-size: 14px;
 }
 
-a {
-  text-decoration: none;
+h5 {
+  color: #0B7E85;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+.logo {
+  width: 30px;
 }
 
 .navbar {
@@ -21,8 +26,33 @@ a {
   padding-left: 15px;
   padding-top: 12px;
   /*font-weight: bold;*/
+  margin-bottom: 10px;
 }
 
-.logo {
-  width: 30px;
+button {
+  background-color: #0B7E85;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.id-form {
+  padding-top: 25px;
+  padding-left: 15px;
+}
+
+.label {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.status {
+  padding-left: 35px;
+  padding-top: 25px;
+}
+
+.thanks {
+  padding-top: 15px;
 }
